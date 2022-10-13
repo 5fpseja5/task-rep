@@ -1,4 +1,4 @@
-def maxProfit_bruteforce (prices): # 메인인데?
+def maxProfit_bruteforce (prices): # 합병인데?
    max_price = 0
 
    for i, price in enumerate(prices):
