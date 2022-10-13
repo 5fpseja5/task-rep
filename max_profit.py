@@ -6,4 +6,3 @@ def maxProfit_bruteforce (prices): # 메인인데?
            max_price = max(prices[j] - price, max_price)
 
    return
-
